@@ -1,0 +1,15 @@
+.btn {
+  padding: 0.5rem 1rem;
+  background: linear-gradient(
+    22deg,
+    rgba(255, 255, 255, 1) 0%,
+    rgba(0, 0, 0, 1) 49%,
+    rgba(0, 0, 0, 1) 100%
+  );
+  color: #fff;
+  border-radius: 20px;
+  display: flex;
+  gap: 0.5rem;
+  align-items: center;
+  width: fit-content;
+}
